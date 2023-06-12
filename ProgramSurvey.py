@@ -20,6 +20,6 @@ print('' + myName + ': Yeah, Like we are clones, or something!')
 print('' + myName + ', the program has now ended. You may now exit.')
 print('This will be a full personal info security system in the future, so there will be a code thingy sometime.')
 print('I will make announcements on my GitHub page. https://github.com/SakuraThePythonProgrammer   See you later!')
-
+print('You are probably already downloading this from GitHub.')
 
 
